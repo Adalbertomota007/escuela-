@@ -1,1 +1,6 @@
-# escuela-
+# escuela-[escuela.html](https://github.com/user-attachments/files/22307722/escuela.html)
+![escuela1](https://github.com/user-attachments/assets/f1704492-242d-4286-8d66-4da3a63ca4ff)[actividad 2.txt](https://github.com/user-attachments/files/22307726/actividad.2.txt)
+[style.css](https://github.com/user-attachments/files/22307725/style.css)
+![pagiana](https://github.com/user-attachments/assets/3a6f6806-5c89-4bea-be50-ae128d887d5c)
+[main.js](https://github.com/user-attachments/files/22307724/main.js)
+[index2.html](https://github.com/user-attachments/files/22307723/index2.html)
